@@ -1,6 +1,5 @@
-# dessple_k8s_service_pod
-## 添加pod到k8s集群
-# 开发pod 基于go-micro v3框架，开发pod相关的mysql仓库，并将对pod的操作映射到k8s集群
+# dessple_k8s_service_pod   添加pod到k8s集群
+### 开发pod 基于go-micro v3框架，开发pod相关的mysql仓库，并将对pod的操作映射到k8s集群
 ### pod表单
 	- PodName      string
 	- PodNamespace string 
