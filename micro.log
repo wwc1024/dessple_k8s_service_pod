@@ -1,0 +1,9 @@
+{"level":"info","ts":"2023-03-10T00:00:00.401+0800","caller":"handler/podHandler.go:19","msg":"添加pod"}
+{"level":"error","ts":"2023-03-10T00:00:00.483+0800","caller":"service/service.go:48","msg":"Deployment.apps \"nginx\" is invalid: spec.template.spec.containers[0].image: Required value"}
+{"level":"error","ts":"2023-03-10T00:00:00.483+0800","caller":"handler/podHandler.go:29","msg":"Deployment.apps \"nginx\" is invalid: spec.template.spec.containers[0].image: Required value"}
+{"level":"info","ts":"2023-03-10T00:00:12.606+0800","caller":"handler/podHandler.go:19","msg":"添加pod"}
+{"level":"error","ts":"2023-03-10T00:00:12.635+0800","caller":"service/service.go:48","msg":"Deployment.apps \"nginx\" is invalid: spec.template.spec.containers[0].image: Required value"}
+{"level":"error","ts":"2023-03-10T00:00:12.635+0800","caller":"handler/podHandler.go:29","msg":"Deployment.apps \"nginx\" is invalid: spec.template.spec.containers[0].image: Required value"}
+{"level":"info","ts":"2023-03-10T00:06:15.998+0800","caller":"handler/podHandler.go:19","msg":"添加pod"}
+{"level":"info","ts":"2023-03-10T00:06:16.094+0800","caller":"service/service.go:51","msg":"创建成功"}
+{"level":"info","ts":"2023-03-10T00:06:16.102+0800","caller":"handler/podHandler.go:39","msg":"Pod添加成功 ID:1"}
